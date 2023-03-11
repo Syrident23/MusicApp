@@ -22,7 +22,8 @@
     "mongoose": "^6.9.0",
     "mongoose-delete": "^0.5.4",
     "multer": "^1.4.5-lts.1",
-    "node": "^19.6.0"
+    "node": "^19.6.0",
+    "vercel": "^28.16.15"
   },
   "type": "module",
   "devDependencies": {
